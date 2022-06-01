@@ -1,0 +1,10 @@
+﻿global using  ProductManagement.DTO;
+global using Mapster;
+global using ProductManagement.Application.Interface;
+global using ProductManagement.Contexts;
+global using FluentValidation;
+global using Microsoft.Extensions.Localization;
+global using ProductManagement.DTO.User;
+global using ProductManagement.Infrastructure;
+global using ProductManagement.DTO.Product;
+global using ProductManagement.Infrastructure.Extensions;
